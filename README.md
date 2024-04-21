@@ -10,8 +10,6 @@ sudo apt install maven
 
 mvn --version
 
--------------------------------
-
 mvn test
 
 mvn package
